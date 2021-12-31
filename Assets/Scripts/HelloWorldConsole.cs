@@ -7,7 +7,9 @@ public class HelloWorldConsole : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello World");
+        //503403 Change console message to Hello Earth
+        
+        Debug.Log("Hello Earth");
     }
 
     // Update is called once per frame
